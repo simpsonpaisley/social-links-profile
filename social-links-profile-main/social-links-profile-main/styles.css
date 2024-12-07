@@ -76,7 +76,7 @@ button {
 	border-radius: 8px;
 	margin-bottom: 16px;
 	transition-timing-function: ease-out;
-	transition-duration: 900ms;
+	transition-duration: 700ms;
 }
 
 .social-links:last-child {
