@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-!()[]
+![](social-links-profile-main/social-links-profile-main/screenshots/ScreenShot Tool -20241207164101.png)
 
 ### Links
 
